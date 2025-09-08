@@ -20,7 +20,7 @@
 | **[awesome-llm-infra](https://github.com/BugVanquisher/awesome-llm-infra)** | Curated lifecycle guidebook: pre-training, inference, deployment, optimization, monitoring. |
 | **[mini-llm-platform](https://github.com/BugVanquisher/mini-llm-platform)** | Lightweight LLM infra demo—build and run your own LLM serving stack. |
 | **[FairTune](https://github.com/BugVanquisher/FairTune)** | End-to-end LLM fine-tuning pipeline emphasizing quality and fairness evaluation. |
-| **[AerialView](https://github.com/BugVanquisher/AerialView)** | One-click data visualization tool. |
+| **[AerialView](https://github.com/BugVanquisher/AerialView)** | One-click stock data visualization tool. |
 | (Optional) **[Magic-Square](...)** | A Python package demonstrating optimized algorithmic design. |
 
 ---
