@@ -4,7 +4,7 @@
 
 ---
 
-## 🔭 I’m currently working on:
+## 🔭 I’m currently working on
 - **Atlas**: Traffic Governance & Resource Allocator for LLM inference pipelines.
 - Developing observability tooling for LLM-serving systems, focused on latency, token cost, and fairness metrics.
 
