@@ -1,8 +1,6 @@
 # 👋 Hello, I’m BugVanquisher
 
-**Professional SWE** — crafting robust, high-throughput LLM infrastructure at the intersection of ML and infra.
-
-**Senior/Staff-level ML/LLM Infra Engineer**
+**Senior/Staff-level ML/LLM Infra Engineer** — crafting robust, high-throughput LLM infrastructure at the intersection of ML and infra.
 
 ---
 
