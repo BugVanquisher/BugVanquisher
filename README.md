@@ -2,6 +2,8 @@
 
 **Senior/Staff-level ML/LLM Infra Engineer** — crafting robust, high-throughput LLM infrastructure at the intersection of ML and infra.
 
+I work on ML inference systems that serve **X00+ million** tokens per day.
+
 ---
 
 ## 🔭 I’m currently working on
