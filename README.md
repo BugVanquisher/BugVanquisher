@@ -6,8 +6,8 @@
 
 ## 🔭 I’m currently working on
 - **Atlas**: Traffic Governance & Resource Allocator for LLM inference pipelines.
-- Developing observability tooling for LLM-serving systems, focused on latency, token cost, and fairness metrics.
 - **Hyperion**: A scalable ML inference platform focusing on reliability, caching, monitoring, and production-ready deployment.
+- Developing observability tooling for LLM-serving systems, focused on latency, token cost, and fairness metrics.
 
 ---
 
