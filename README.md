@@ -8,7 +8,7 @@ I work on ML inference systems that serve **X00+ million** tokens per day.
 
 ## 🔭 I’m currently working on
 - **Atlas**: Traffic Governance & Resource Allocator for LLM inference pipelines.
-- **Hyperion**: A scalable ML inference platform focusing on reliability, caching, monitoring, and production-ready deployment.
+- **Hyperion**: A scalable ML inference platform focusing on reliability, caching, monitoring, and production-ready deployment. Inspired by my own [mini-llm-platform](https://github.com/BugVanquisher/mini-llm-platform) repo.
 - Developing observability tooling for LLM-serving systems, focused on latency, token cost, and fairness metrics.
 
 ---
