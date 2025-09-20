@@ -27,6 +27,7 @@ I work on ML inference systems that serve **X00+ million** tokens per day.
 ---
 
 ##  More About Me
+- [Read my User Manual](USER_MANUAL.md)
 - Passionate about systems reliability, observability, and responsible ML infra.
 - Published guides and deep dives on LLM serving patterns and fairness benchmarks.
 - Available for freelance mentorship, open-source collaboration, or speaking engagements.
