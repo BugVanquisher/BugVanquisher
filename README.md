@@ -1,37 +1,64 @@
-# 👋 Hello, I’m BugVanquisher
+# 👋 Hi, I’m Vincent Li (BugVanquisher)
 
-**Senior/Staff-level ML/LLM Infra Engineer** — crafting robust, high-throughput LLM infrastructure at the intersection of ML and infra.
+[![Website](https://img.shields.io/badge/Website-vincentli.dev-blue)](https://www.vincentli.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/xxx) 
+[![GitHub](https://img.shields.io/badge/GitHub-BugVanquisher-black)](https://github.com/BugVanquisher)
 
-I work on ML inference systems that serve **X00+ million** tokens per day.
-
----
-
-## 🔭 I’m currently working on
-- **Atlas**: Traffic Governance & Resource Allocator for LLM inference pipelines.
-- **Hyperion**: A scalable ML inference platform focusing on reliability, caching, monitoring, and production-ready deployment. Inspired by my own [mini-llm-platform](https://github.com/BugVanquisher/mini-llm-platform) repo.
-- Developing observability tooling for LLM-serving systems, focused on latency, token cost, and fairness metrics.
+**Senior/Staff-level Engineer | Architecting LLM & ML Infrastructure | Scaling Mission-Critical Systems**
 
 ---
 
-##  Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **[Atlas](https://github.com/BugVanquisher/Atlas)** | An inference traffic governance engine with dynamic quotas, streaming token-level control, and fault-tolerant architecture. |
-| **[Hyperion](https://github.com/BugVanquisher/Hyperion)** | A scalable, reliable, and observable ML inference platform with caching, monitoring, and production-ready deployment. |
-| **[FairTune](https://github.com/BugVanquisher/FairTune)** | End-to-end LLM fine-tuning pipeline emphasizing quality and fairness evaluation. |
-| **[awesome-llm-infra](https://github.com/BugVanquisher/awesome-llm-infra)** | Curated lifecycle guidebook: pre-training, inference, deployment, optimization, monitoring. |
-| **[AerialView](https://github.com/BugVanquisher/AerialView)** | One-click stock data visualization tool. |
-| (Private) **[llm-router-playground](https://github.com/BugVanquisher/llm-router-playground)** | A visually interactive demo that routes prompts between a Lightweight and a Pro model based on prompt complexity. |
+## 🚀 About Me
+- I build **ML inference systems** that reliably serve **hundreds of millions of tokens per day**.  
+- Passionate about **scalable serving, observability, quota & traffic management, and fairness evaluation**.  
+- Strong believer in **idempotent design, high availability, and disciplined engineering communication**.  
+- I share my work through **open-source projects, blog posts, and interactive demos**.
 
 ---
 
-##  More About Me
-- [Read my User Manual](USER_MANUAL.md)
-- Passionate about systems reliability, observability, and responsible ML infra.
-- Published guides and deep dives on LLM serving patterns and fairness benchmarks.
-- Available for freelance mentorship, open-source collaboration, or speaking engagements.
+## ⭐ Featured Projects
+
+| Project | Description | Status / Links |
+|---------|-------------|----------------|
+| [**Atlas**](https://github.com/BugVanquisher/Atlas) | Quota & traffic management gateway for LLM inference (Redis, FastAPI, Prometheus). Enables dynamic quotas, token-level governance, and observability. | 🚧 Active development · [Docs](https://github.com/BugVanquisher/Atlas#readme) |
+| [**Hyperion**](https://github.com/BugVanquisher/Hyperion) | Scalable ML inference platform blueprint (Kubernetes, Prometheus, Grafana). Demonstrates HA patterns, autoscaling, observability. | ⭐ Pinned project |
+| [**FairTune**](https://github.com/BugVanquisher/FairTune) | Fine-tuning + fairness evaluation pipeline with Streamlit dashboards. Helps evaluate trade-offs in generative AI models. | Open source |
+| [**Awesome-LLM-Infra**](https://github.com/BugVanquisher/Awesome-LLM-Infra) | Curated guidebook covering the **LLM lifecycle** — pre-training, fine-tuning, inference, optimization, monitoring. Includes diagrams + references. | Growing collection |
+| [**LLM-Router-Playground**](https://github.com/BugVanquisher/llm-router-playground) | Interactive demo that routes tasks across lightweight vs. heavyweight models based on complexity. Built with Streamlit + Docker for easy hosting. | Prototype demo available |
 
 ---
 
-*Stay curious, stay coding* — **BugVanquisher** 🤖 
+## 🛠 Current Focus
+- **LLM serving reliability** — scaling inference infra with quota-tiered delivery & HA routing.  
+- **Observability** — metrics, logs, traces, dashboards for real-time monitoring.  
+- **Fairness evaluation** — benchmarking trade-offs in fine-tuned models.  
+- **Personal branding** — writing technical blogs ([vincentli.dev/blog](https://www.vincentli.dev/blog)) and showcasing open-source demos.  
+
+---
+
+## 📚 Writing & Talks
+- [What I Learned Building Atlas](https://www.vincentli.dev/blog/what-i-learned-building-atlas)  
+- [Design Principles for Scalable ML Infra (coming soon)]()  
+- [LLM Router Playground Demo (coming soon)]()  
+
+---
+
+## 📖 User Manual
+I maintain a [USER_MANUAL.md](./USER_MANUAL.md) to share how I work, communicate, and lead.  
+Inside you’ll find:
+- Collaboration preferences  
+- Technical & non-technical principles  
+- Quotes that guide my engineering philosophy  
+
+---
+
+## 🤝 Let’s Connect
+- 🌐 Website: [vincentli.dev](https://www.vincentli.dev)  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/xxx)  
+- 🐙 GitHub: [BugVanquisher](https://github.com/BugVanquisher)  
+- ✉️ Reach out if you’d like to collaborate, discuss LLM infra, or contribute to my projects.  
+
+---
+
+**Topics:** `LLM` · `ML Infrastructure` · `Observability` · `Reliability` · `Fairness`  
+**License:** [Apache 2.0](./LICENSE)
