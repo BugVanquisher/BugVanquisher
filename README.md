@@ -44,7 +44,7 @@
 ---
 
 ## 📖 User Manual
-I maintain a [USER_MANUAL.md](./USER_MANUAL.md) to share how I work, communicate, and lead.  
+I maintain a [USER_MANUAL](./USER_MANUAL.md) to share how I work, communicate, and lead.  
 Inside you’ll find:
 - Collaboration preferences  
 - Technical & non-technical principles  
