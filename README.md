@@ -24,7 +24,7 @@
 | [**Hyperion**](https://github.com/BugVanquisher/Hyperion) | Scalable ML inference platform blueprint (Kubernetes, Prometheus, Grafana). Demonstrates HA patterns, autoscaling, observability. | ⭐ Pinned project |
 | [**FairTune**](https://github.com/BugVanquisher/FairTune) | Fine-tuning + fairness evaluation pipeline with Streamlit dashboards. Helps evaluate trade-offs in generative AI models. | Open source |
 | [**Awesome-LLM-Infra**](https://github.com/BugVanquisher/Awesome-LLM-Infra) | Curated guidebook covering the **LLM lifecycle** — pre-training, fine-tuning, inference, optimization, monitoring. Includes diagrams + references. | Growing collection |
-| [**LLM-Router-Playground**](https://github.com/BugVanquisher/llm-router-playground) | Interactive demo that routes tasks across lightweight vs. heavyweight models based on complexity. Built with Streamlit + Docker for easy hosting. | Prototype demo available |
+| (Private) [**LLM-Router-Playground**](https://github.com/BugVanquisher/llm-router-playground) | Interactive demo that routes tasks across lightweight vs. heavyweight models based on complexity. Built with Streamlit + Docker for easy hosting. | Prototype demo WIP |
 
 ---
 
