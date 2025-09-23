@@ -54,7 +54,7 @@ Inside you’ll find:
 
 ## 🤝 Let’s Connect
 - 🌐 Website: [vincentli.dev](https://www.vincentli.dev)  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/xxx)  
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ljyds)  
 - 🐙 GitHub: [BugVanquisher](https://github.com/BugVanquisher)  
 - ✉️ Reach out if you’d like to collaborate, discuss LLM infra, or contribute to my projects.  
 
