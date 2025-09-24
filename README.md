@@ -20,7 +20,7 @@
 
 | Project | Description | Status / Links |
 |---------|-------------|----------------|
-| [**Atlas**](https://github.com/BugVanquisher/Atlas) | Quota & traffic management gateway for LLM inference (Redis, FastAPI, Prometheus). Enables dynamic quotas, token-level governance, and observability. | 🚧 Active development · [Docs](https://github.com/BugVanquisher/Atlas#readme) |
+| [**Atlas**](https://github.com/BugVanquisher/Atlas) | Quota & traffic management gateway for LLM inference (Redis, FastAPI, Prometheus). Enables dynamic quotas, token-level governance, and observability. | 🚧 Active development |
 | [**Hyperion**](https://github.com/BugVanquisher/Hyperion) | Scalable ML inference platform blueprint (Kubernetes, Prometheus, Grafana). Demonstrates HA patterns, autoscaling, observability. | ⭐ Pinned project |
 | [**FairTune**](https://github.com/BugVanquisher/FairTune) | Fine-tuning + fairness evaluation pipeline with Streamlit dashboards. Helps evaluate trade-offs in generative AI models. | Open source |
 | [**Awesome-LLM-Infra**](https://github.com/BugVanquisher/Awesome-LLM-Infra) | Curated guidebook covering the **LLM lifecycle** — pre-training, fine-tuning, inference, optimization, monitoring. Includes diagrams + references. | Growing collection |
