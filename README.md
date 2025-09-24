@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vincent Li (BugVanquisher)
 
 [![Website](https://img.shields.io/badge/Website-vincentli.dev-blue)](https://www.vincentli.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/xxx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ljyds) 
 [![GitHub](https://img.shields.io/badge/GitHub-BugVanquisher-black)](https://github.com/BugVanquisher)
 
 **Senior/Staff-level Engineer | Architecting LLM & ML Infrastructure | Scaling Mission-Critical Systems**
