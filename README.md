@@ -37,8 +37,8 @@
 ---
 
 ## 📚 Writing & Talks
+- [What It Means To Be A True Leader](https://www.vincentli.dev/blog/what-it-means-to-be-a-true-leader)  
 - [What I Learned Building Atlas](https://www.vincentli.dev/blog/what-i-learned-building-atlas)  
-- [Design Principles for Scalable ML Infra (coming soon)]()  
 - [LLM Router Playground Demo (coming soon)]()  
 
 ---
