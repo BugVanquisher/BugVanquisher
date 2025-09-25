@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vincent Li (BugVanquisher)
+# 👋 Hi, I’m Vincent (BugVanquisher)
 
 [![Website](https://img.shields.io/badge/Website-vincentli.dev-blue)](https://www.vincentli.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ljyds) 
