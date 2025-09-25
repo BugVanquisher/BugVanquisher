@@ -18,11 +18,11 @@
 
 ## ⭐ Featured Projects
 
-| Project | Description | Status / Links |
+| Project | Description | Status |
 |---------|-------------|----------------|
 | [**Atlas**](https://github.com/BugVanquisher/Atlas) | Quota & traffic management gateway for LLM inference (Redis, FastAPI, Prometheus). Enables dynamic quotas, token-level governance, and observability. | 🚧 Active development |
 | [**Hyperion**](https://github.com/BugVanquisher/Hyperion) | Scalable ML inference platform blueprint (Kubernetes, Prometheus, Grafana). Demonstrates HA patterns, autoscaling, observability. | 🚧 Active development |
-| [**FairTune**](https://github.com/BugVanquisher/FairTune) | Fine-tuning + fairness evaluation pipeline with Streamlit dashboards. Helps evaluate trade-offs in generative AI models. | Open source |
+| [**FairTune**](https.github.com/BugVanquisher/FairTune) | Fine-tuning + fairness evaluation pipeline with Streamlit dashboards. Helps evaluate trade-offs in generative AI models. | ⏳ Pending (Deprioritized) |
 | [**Awesome-LLM-Infra**](https://github.com/BugVanquisher/Awesome-LLM-Infra) | Curated guidebook covering the **LLM lifecycle** — pre-training, fine-tuning, inference, optimization, monitoring. Includes diagrams + references. | Growing collection |
 | (Private) [**LLM-Router-Playground**](https://github.com/BugVanquisher/llm-router-playground) | Interactive demo that routes tasks across lightweight vs. heavyweight models based on complexity. Built with Streamlit + Docker for easy hosting. | Prototype demo WIP |
 
