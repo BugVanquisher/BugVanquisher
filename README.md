@@ -23,7 +23,7 @@
 | [**Atlas**](https://github.com/BugVanquisher/Atlas) | Quota & traffic management gateway for LLM inference (Redis, FastAPI, Prometheus). Enables dynamic quotas, token-level governance, and observability. | 🚧 Active development |
 | [**Hyperion**](https://github.com/BugVanquisher/Hyperion) | Scalable ML inference platform blueprint (Kubernetes, Prometheus, Grafana). Demonstrates HA patterns, autoscaling, observability. | 🚧 Active development |
 | [**MonitorX**](https://github.com/BugVanquisher/MonitorX) | Comprehensive ML/AI infrastructure observability platform with zero-code monitoring, intelligent alerting, and real-time drift detection. | 🚧 Active development |
-| [**FairTune**](https.github.com/BugVanquisher/FairTune) | Fine-tuning + fairness evaluation pipeline with Streamlit dashboards. Helps evaluate trade-offs in generative AI models. | ⏳ Pending (Deprioritized) |
+| [**FairTune**](https://github.com/BugVanquisher/FairTune) | Fine-tuning + fairness evaluation pipeline with Streamlit dashboards. Helps evaluate trade-offs in generative AI models. | ⏳ Pending (Deprioritized) |
 | [**Awesome-LLM-Infra**](https://github.com/BugVanquisher/Awesome-LLM-Infra) | Curated guidebook covering the **LLM lifecycle** — pre-training, fine-tuning, inference, optimization, monitoring. Includes diagrams + references. | Growing collection |
 | (Private) [**LLM-Router-Playground**](https://github.com/BugVanquisher/llm-router-playground) | Interactive demo that routes tasks across lightweight vs. heavyweight models based on complexity. Built with Streamlit + Docker for easy hosting. | Prototype demo WIP |
 
@@ -32,8 +32,8 @@
 ## 🛠 Current Focus
 - **LLM serving reliability** — scaling inference infra with quota-tiered delivery & HA routing.  
 - **Observability** — metrics, logs, traces, dashboards for real-time monitoring.  
-- **Fairness evaluation** — benchmarking trade-offs in fine-tuned models.  
-- **Personal branding** — writing technical blogs ([vincentli.dev/blog](https://www.vincentli.dev/blog)) and showcasing open-source demos.  
+- **GenAI safety** — practical guardrails, red-teaming workflows, and fairness evaluation across fine-tuned models.  
+- **Writing & sharing** — technical blogs ([vincentli.dev/blog](https://www.vincentli.dev/blog)) and open-source demos that translate safety and infra lessons into practice.   
 
 ---
 
