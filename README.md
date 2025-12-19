@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 About Me
-- I build **ML inference systems** that reliably serve **hundreds of millions of tokens per day**.  
-- Passionate about **scalable serving, observability, quota & traffic management, and fairness evaluation**.  
+- I build **ML inference systems** that reliably serve **billions of tokens per day**.  
+- Passionate about **scalable serving, observability, quota & traffic management, fairness evaluation, and GenAI safety**.  
 - Strong believer in **idempotent design, high availability, and disciplined engineering communication**.  
 - I share my work through **open-source projects, blog posts, and interactive demos**.
 
@@ -62,4 +62,6 @@ Inside you’ll find:
 ---
 
 **Topics:** `LLM` · `ML Infrastructure` · `Observability` · `Reliability` · `Fairness`  
+
+
 **License:** [Apache 2.0](./LICENSE)
