@@ -20,7 +20,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Aether** | Safe GenAI Platform integrating Atlas, Sentinel, Hyperion, and MonitorX. End-to-end inference with safety supervision, traffic governance, and observability. | 🚀 Active |
+| [**Aether**](https://github.com/BugVanquisher/Aether) | Safe GenAI platform integrating Atlas, Sentinel, Hyperion, and MonitorX. End-to-end inference with safety supervision, traffic governance, and observability. | 🚀 Active |
 | [**Sentinel**](https://github.com/BugVanquisher/Sentinel) | GenAI safety supervision system with tiered analysis (heuristics → ML → LLM). PII detection/redaction, prompt injection defense, toxicity filtering. | 🚀 Active |
 | [**Atlas**](https://github.com/BugVanquisher/Atlas) | API gateway for LLM inference with quota management, rate limiting, priority traffic shaping, and safety compute budgeting. | 🚀 Active |
 | [**Hyperion**](https://github.com/BugVanquisher/Hyperion) | Scalable ML inference platform with HA patterns, autoscaling, and Prometheus/Grafana observability. | 🚧 Active |
@@ -35,6 +35,13 @@
 - **Observability** — metrics, logs, traces, dashboards for real-time monitoring of ML systems.
 - **Open Source** — sharing practical implementations through Aether and related projects.
 - **Writing** — technical blogs at [vincentli.dev/blog](https://www.vincentli.dev/blog).
+
+---
+
+## 🧪 Live Demos
+- [Sentinel Dashboard](https://www.vincentli.dev/sentinel)
+- [Sentinel Interactive Demo](https://www.vincentli.dev/projects/sentinel-demo)
+- [Atlas Demo](https://www.vincentli.dev/projects/atlas-demo)
 
 ---
 
